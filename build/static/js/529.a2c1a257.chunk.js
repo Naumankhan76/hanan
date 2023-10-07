@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkHanan_Semab=self.webpackChunkHanan_Semab||[]).push([[529],{4529:function(a,e,n){a.exports=n.p+"static/media/minimal-art.b31598825aefb733878a.md"}}]);

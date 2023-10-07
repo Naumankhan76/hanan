@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkHanan_Semab=self.webpackChunkHanan_Semab||[]).push([[668],{8668:function(a,e,n){a.exports=n.p+"static/media/custom-calendar.4277da5011a1684121d8.md"}}]);

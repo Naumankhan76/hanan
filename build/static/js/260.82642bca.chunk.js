@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkHanan_Semab=self.webpackChunkHanan_Semab||[]).push([[260],{7260:function(e,a,t){e.exports=t.p+"static/media/how-to-become-better-with-ui-design.cb9cebf5eef6a2607c19.md"}}]);

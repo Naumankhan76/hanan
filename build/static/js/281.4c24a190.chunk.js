@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkHanan_Semab=self.webpackChunkHanan_Semab||[]).push([[281],{2281:function(e,a,n){e.exports=n.p+"static/media/UI-Design.eea603e16f3b0ff9f042.md"}}]);

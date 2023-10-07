@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkHanan_Semab=self.webpackChunkHanan_Semab||[]).push([[654],{6654:function(a,e,n){a.exports=n.p+"static/media/branding-cafinista.f7d177d050e515a394ea.md"}}]);

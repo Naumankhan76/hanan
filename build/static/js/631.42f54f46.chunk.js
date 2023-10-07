@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkHanan_Semab=self.webpackChunkHanan_Semab||[]).push([[631],{3631:function(a,e,n){a.exports=n.p+"static/media/menu-design.4b803c7af2a4d9b25b89.md"}}]);

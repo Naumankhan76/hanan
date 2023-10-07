@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkHanan_Semab=self.webpackChunkHanan_Semab||[]).push([[310],{1310:function(a,e,t){a.exports=t.p+"static/media/the-truth-about-design.2f0caa6bb7e2d9e7888d.md"}}]);

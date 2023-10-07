@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3fcd0f87.css",
+    "main.js": "/static/js/main.c56e146c.js",
+    "static/js/260.82642bca.chunk.js": "/static/js/260.82642bca.chunk.js",
+    "static/js/310.2a2593a5.chunk.js": "/static/js/310.2a2593a5.chunk.js",
+    "static/js/321.b9706681.chunk.js": "/static/js/321.b9706681.chunk.js",
+    "static/js/753.cc41f446.chunk.js": "/static/js/753.cc41f446.chunk.js",
+    "static/js/726.a4b10039.chunk.js": "/static/js/726.a4b10039.chunk.js",
+    "static/js/924.ad7844b7.chunk.js": "/static/js/924.ad7844b7.chunk.js",
+    "static/js/281.4c24a190.chunk.js": "/static/js/281.4c24a190.chunk.js",
+    "static/js/782.4a3f3090.chunk.js": "/static/js/782.4a3f3090.chunk.js",
+    "static/js/654.3f5a0c5a.chunk.js": "/static/js/654.3f5a0c5a.chunk.js",
+    "static/js/668.9d891020.chunk.js": "/static/js/668.9d891020.chunk.js",
+    "static/js/631.42f54f46.chunk.js": "/static/js/631.42f54f46.chunk.js",
+    "static/js/529.a2c1a257.chunk.js": "/static/js/529.a2c1a257.chunk.js",
+    "static/js/787.657fd820.chunk.js": "/static/js/787.657fd820.chunk.js",
+    "static/media/Video-Editing.md": "/static/media/Video-Editing.c34abfc2f24932424d70.md",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/how-to-become-better-with-ui-design.md": "/static/media/how-to-become-better-with-ui-design.cb9cebf5eef6a2607c19.md",
+    "static/media/the-ugly-truth-about-design.md": "/static/media/the-ugly-truth-about-design.a6c056dee77182ce5a0b.md",
+    "static/media/the-truth-about-design.md": "/static/media/the-truth-about-design.2f0caa6bb7e2d9e7888d.md",
+    "static/media/branding-cafinista.md": "/static/media/branding-cafinista.f7d177d050e515a394ea.md",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/Crypto-Stickers.md": "/static/media/Crypto-Stickers.c7f473adda2559aef3a5.md",
+    "static/media/UI-Design.md": "/static/media/UI-Design.eea603e16f3b0ff9f042.md",
+    "static/media/menu-design.md": "/static/media/menu-design.4b803c7af2a4d9b25b89.md",
+    "static/media/3DIsometricRoom.md": "/static/media/3DIsometricRoom.bdd58511dd4f1f8a5712.md",
+    "static/media/custom-calendar.md": "/static/media/custom-calendar.4277da5011a1684121d8.md",
+    "static/media/minimal-art.md": "/static/media/minimal-art.b31598825aefb733878a.md",
+    "static/media/3DVarnaBuildings.md": "/static/media/3DVarnaBuildings.76b9983031890c511a8a.md",
+    "index.html": "/index.html",
+    "main.3fcd0f87.css.map": "/static/css/main.3fcd0f87.css.map",
+    "main.c56e146c.js.map": "/static/js/main.c56e146c.js.map",
+    "787.657fd820.chunk.js.map": "/static/js/787.657fd820.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fcd0f87.css",
+    "static/js/main.c56e146c.js"
+  ]
+}
